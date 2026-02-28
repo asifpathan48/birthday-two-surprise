@@ -35,7 +35,7 @@ export function PhotoGallery() {
           Beautiful Memories
         </h2>
         <p className="text-2xl text-purple-200">
-          Every moment with you is special
+          Every moment is special
         </p>
       </motion.div>
 
