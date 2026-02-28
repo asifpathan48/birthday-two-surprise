@@ -119,7 +119,7 @@ export function InteractiveMessage() {
                 On this special day, Thank you for
                 being such an amazing person. Here's to celebrating YOU today
                 and always! May this year bring you everything your heart desires
-                and more. Happy Birthday, my wonderful friend! 🎂💝
+                and more. Happy Birthday, Fiza! 🎂💝
               </p>
 
               <motion.div
