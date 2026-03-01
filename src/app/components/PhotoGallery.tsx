@@ -15,7 +15,7 @@ const memories = [
   {
     id: 3,
     url: 'https://fiza-birthday-present.vercel.app/static/media/photo2.b2fd4fa2eae835e7819d.jpeg',
-    caption: 'Smiles That Last Forever',
+    caption: 'Let your smile speak.',
   },
 ];
 
